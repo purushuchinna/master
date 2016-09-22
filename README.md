@@ -1,3 +1,3 @@
 # master
-01
-02 this is first edit commit for testing.
+echo "Welcome to $USER"
+echo your lost login was on `last`
